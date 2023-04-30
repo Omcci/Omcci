@@ -46,6 +46,8 @@ Live demo link: [https://omcci.github.io/fitness-app/](https://omcci.github.io/f
 Screenshot:
 ![Fitness App Screenshot](./fitness-app-screenshot.png) SOON
 
+## Looking Ahead
+
 Currently, I'm still in the process of completing my Fullstack web developer training, with a focus on Javascript, React, NodeJS, mySQL, and Express. I'm eager to apply my experience and knowledge to my future career in tech.
 
 As I move forward, I'm actively seeking an apprenticeship in a professional contract starting from September 2023. I'm excited to continue learning and growing as a developer, and I can't wait to see where this journey takes me.
