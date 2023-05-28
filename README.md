@@ -1,4 +1,6 @@
-<img src="./ppp.png" alt="Profile Picture" width="300" align="right" />
+
+![omcigh1](https://github.com/Omcci/WCS-Projet2/assets/119880787/babc3c8c-1747-4150-a5cc-987c3cbbb95b)
+
 <h1>Software Developer</h1>
 
 
@@ -18,41 +20,51 @@ As part of my training at the Wild Code School, I've already completed some exci
 
 ### Side project: Portfolio with React, TailwindCSS, ThreeJS
 
-Description: This is a place where I can show you my work, mostly in web development for now.
+This is a comfy place where I can show you my work, mostly in web development for now. Come, sit, sip your favorite hot beverage and take a look at my current and futur work !
 
-GitHub repository link: https://github.com/Omcci/3DPortfolio
+[GitHub repository link](https://github.com/Omcci/3DPortfolio)
 
-Live demo link: https://golden-flan-9015a5.netlify.app/
+[Live demo link](https://golden-flan-9015a5.netlify.app/)
 
 <img width=20% alt="Capture d’écran 2023-05-21 à 10 47 27" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/42293541-b87c-4fbd-be4c-2ab5ecbdce05">
+<img width=20% alt="projectspf" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/f0d2309c-458f-4826-86eb-0680993bb9eb">
+<img width=20% alt="contactpf" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/665e6154-988d-4978-a2c5-996b8905dce2">
+  
+Technology used: 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+
 
 -------------------
 
 ### Project 2: Fitness App with React, Node, HTML, CSS, and JS
 
-Description: This is a fitness app that fetches data from an API and allows users to track their workouts and progress. Created with React, Node, HTML, CSS, and JS for my Wild Code School Project 2. As a teamleader of the project we worked with scrum methods and sprints for each features. It was a great opportunity to combine my passion for fitness with my newfound love for tech. I'm excited about the potential of this app and how it could help people reach their fitness goals. 
+This is a fitness app that fetches data from an API and allows users to track their workouts and progress. Created with React, Node, HTML, CSS, and JS for my Wild Code School Project 2. As a teamleader of the project we worked with scrum methods and sprints for each features. It was a great opportunity to combine my passion for fitness with my love for tech. I'm excited about the potential of this app and how it could help people reach their fitness goals. Try it now !
 
-GitHub repository link: https://github.com/Omcci/WCS-Projet2
+[GitHub repository link](https://github.com/Omcci/WCS-Projet2)
 
-Live demo link: https://astounding-gingersnap-8d73ac.netlify.app
+[Live demo link](https://astounding-gingersnap-8d73ac.netlify.app)
 
 <img width=20% alt="homepagep2" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/e2b3552e-0b02-40f9-8831-55f6705f3a7f">
 <img width=20% alt="exercisep2" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/a93def61-def9-406a-9477-b53837673d0b">
 <img width=20% alt="nutritionpagep2" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/12d53f1a-51a6-4fc0-a3d5-da3508266ea0">
 
 Technology used:  
+
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     
-   [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+   
 
 -------------------
 
 ### Project 1: Mario CV in CSS/HTML and JS
 
-Description: This is a fictive CV for Mario created with CSS, HTML, and JS for my Wild Code School Project 1.
+This is a fictive CV for Mario created with CSS, HTML, and JS for my Wild Code School Project 1.
 It was a fun challenge to bring a beloved video game character to life in a professional setting.
   
-
-GitHub repository link: https://github.com/T0MLE/WCS-project1
+[GitHub repository link](https://github.com/T0MLE/WCS-project1)
 
 Live demo link: SOON
 
@@ -60,8 +72,8 @@ SOON
 
 Technology used:  
   
-  
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
 
 -------------------
 
