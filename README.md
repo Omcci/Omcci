@@ -66,7 +66,7 @@ It was a fun challenge to bring a beloved video game character to life in a prof
   
 [GitHub repository link](https://github.com/T0MLE/WCS-project1)
 
-Live demo link: SOON
+[Live demo link](https://t0mle.github.io/WCS-project1/)
 
 SOON
 
