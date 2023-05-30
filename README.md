@@ -68,7 +68,10 @@ It was a fun challenge to bring a beloved video game character to life in a prof
 
 [Live demo link](https://t0mle.github.io/WCS-project1/)
 
-SOON
+<img width=20% alt="homepagemario" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/fc2cd7b5-e671-4139-b76b-ad1bdef5b39f">
+<img width=20% alt="expmario" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/eb36d5ba-21f3-4e23-b194-d847a038753d">
+<img width=20% alt="hobmario" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/b964330b-34f9-4eb9-87db-934ae2dbc005">
+
 
 Technology used:  
   
