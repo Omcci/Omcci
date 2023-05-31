@@ -24,7 +24,7 @@ This is a comfy place where I can show you my work, mostly in web development fo
 
 [GitHub repository link](https://github.com/Omcci/3DPortfolio)
 
-[Live demo link](https://golden-flan-9015a5.netlify.app/)
+[Live demo link](https://omci-portfolio.netlify.app/)
 
 <img width=20% alt="Capture d’écran 2023-05-21 à 10 47 27" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/42293541-b87c-4fbd-be4c-2ab5ecbdce05">
 <img width=20% alt="projectspf" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/f0d2309c-458f-4826-86eb-0680993bb9eb">
