@@ -1,5 +1,6 @@
 
-![omcigh1](https://github.com/Omcci/WCS-Projet2/assets/119880787/babc3c8c-1747-4150-a5cc-987c3cbbb95b)
+
+<img width="1386" alt="Capture d’écran 2023-06-17 à 18 13 28" src="https://github.com/Omcci/Omcci/assets/119880787/fbd82457-6ab9-4c8a-8b7a-fab2aa7b184d">
 
 <h1>Software Developer</h1>
 
