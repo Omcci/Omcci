@@ -18,18 +18,38 @@ After working as a coach and physical education teacher for several years, I rea
 
 As part of my training at the Wild Code School, I've already completed some exciting projects that I'm proud to share with you :
 
+### Food Recipe App with React, NodeJS, Sass
 
-### Side project: Portfolio with React, TailwindCSS, ThreeJS
+This app has been realized in 5 days for a technical test by a company. The user can access to a full database of recipes, add them inside a menu which can be customized. It's a complete app that involve a database use with a CRUD. 
 
-This is a comfy place where I can show you my work, mostly in web development for now. Come, sit, sip your favorite hot beverage and take a look at my current and futur work !
+[GitHub repository link for the back-end](https://github.com/Omcci/HubertEat-back)  
+
+[GitHub repository link for the front-end](https://github.com/Omcci/HubertEat-front)
+
+<img width="20%" alt="Capture d’écran 2023-06-18 à 16 24 34" src="https://github.com/Omcci/Omcci/assets/119880787/2df7ee61-adf5-4d48-9bee-4cf86ca8396f">
+<img width="20%" alt="Capture d’écran 2023-06-18 à 16 25 00" src="https://github.com/Omcci/Omcci/assets/119880787/dd837b00-7801-477b-b8e8-fe2036c2a747">
+<img width="20%" alt="Capture d’écran 2023-06-18 à 16 25 17" src="https://github.com/Omcci/Omcci/assets/119880787/a83cd32f-9c83-4d96-9ea8-6f3bd2a9512b">
+
+Technology used: 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+-------------------
+
+###  Portfolio with React, TailwindCSS, ThreeJS
+
+This is a comfy place where I display my work, mostly in web development for now. Come, sit and sip your favorite hot beverage while taking a look at my current and futur work !
 
 [GitHub repository link](https://github.com/Omcci/3DPortfolio)
 
 [Live demo link](https://omci-portfolio.netlify.app/)
 
-<img width=20% alt="Capture d’écran 2023-05-21 à 10 47 27" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/42293541-b87c-4fbd-be4c-2ab5ecbdce05">
-<img width=20% alt="projectspf" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/f0d2309c-458f-4826-86eb-0680993bb9eb">
-<img width=20% alt="contactpf" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/665e6154-988d-4978-a2c5-996b8905dce2">
+<img width="20%" alt="Capture d’écran 2023-06-18 à 16 05 30" src="https://github.com/Omcci/Omcci/assets/119880787/8eea2a14-9190-4fc7-9150-7d58c417e71c">
+<img width="20%"  alt="Capture d’écran 2023-06-18 à 16 06 05" src="https://github.com/Omcci/Omcci/assets/119880787/d24ecc7a-ffe1-4597-8d9b-4e3c6a1641e1">
+<img width="20%" alt="Capture d’écran 2023-06-18 à 16 06 20" src="https://github.com/Omcci/Omcci/assets/119880787/4f7273e6-3637-4a80-99cc-36036af0830b">
+
   
 Technology used: 
 
@@ -40,9 +60,9 @@ Technology used:
 
 -------------------
 
-### Project 2: Fitness App with React, Node, HTML, CSS, and JS
+### Fitness App with React, Node, HTML, CSS, and JS
 
-This is a fitness app that fetches data from an API and allows users to track their workouts and progress. Created with React, Node, HTML, CSS, and JS for my Wild Code School Project 2. As a teamleader of the project we worked with scrum methods and sprints for each features. It was a great opportunity to combine my passion for fitness with my love for tech. I'm excited about the potential of this app and how it could help people reach their fitness goals. Try it now !
+This is a fitness app that fetches data from an API and allows users to track their workouts and progress. Created with React, HTML, CSS, and JS for my Wild Code School Project 2. As a teamleader of the project we worked with scrum methods and sprints for each features. It was a great opportunity to combine my passion for fitness with my love for tech. I'm excited about the potential of this app and how it could help people reach their fitness goals. Try it now !
 
 [GitHub repository link](https://github.com/Omcci/WCS-Projet2)
 
@@ -60,7 +80,7 @@ Technology used:
 
 -------------------
 
-### Project 1: Mario CV in CSS/HTML and JS
+###  Mario CV in CSS/HTML and JS
 
 This is a fictive CV for Mario created with CSS, HTML, and JS for my Wild Code School Project 1.
 It was a fun challenge to bring a beloved video game character to life in a professional setting.
