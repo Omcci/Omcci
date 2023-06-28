@@ -67,7 +67,7 @@ This is a fitness app that fetches data from an API and allows users to track th
 
 [GitHub repository link](https://github.com/Omcci/WCS-Projet2)
 
-[Live demo link](https://astounding-gingersnap-8d73ac.netlify.app)
+[Live demo link](https://wildfitnessclub.netlify.app/)
 
 <img width=20% alt="homepagep2" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/e2b3552e-0b02-40f9-8831-55f6705f3a7f">
 <img width=20% alt="exercisep2" src="https://github.com/Omcci/WCS-Projet2/assets/119880787/a93def61-def9-406a-9477-b53837673d0b">
