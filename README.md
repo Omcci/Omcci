@@ -1,6 +1,6 @@
 
 
-<img width="1440" alt="Capture d’écran 2023-06-19 à 08 58 46" src="https://github.com/Omcci/Omcci/assets/119880787/0f1e458c-2f15-408a-8c26-616ae0141113">
+<img width="1440" alt="Capture d’écran 2023-06-19 à 08 58 46" src="https://github.com/Omcci/Omcci/assets/119880787/697d2392-a0d9-43b9-842c-ce4b0decf1cf">
 
 
 <h1>Software Developer</h1>
