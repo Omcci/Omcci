@@ -57,7 +57,8 @@ Add me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-th
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omcci&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true&order=1" height="172" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omcci&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=true&order=1" height="172" alt="stats graph"  />
+
 </div>
 
 ###
