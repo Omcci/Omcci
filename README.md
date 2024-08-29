@@ -1,8 +1,38 @@
+### 📝 Resume
+
+**Experience:**
+
+ **Fullstack Web Developer** - _TGW Group, Colombes, Ile de France. 
+  2023 – Present_
+  
+  I've worked on various projects, ranging from automating waste weighing processes to implementing internal ERP solutions. 
+I also contributed to a project that communicates with a government API to create digital traceability of waste produced by clients.
+
+**Education:**
+
+ **RNCP6 Concepteur Développeur d'application (in progress)** - _Wild Code School 2024_
+
+   Developed "Editoria," an online code editor for creating and sharing code snippets. Involved in database design using MERISE, creation of use case, sequence, and class diagrams, wireframing and UI design with Figma, server-side architecture, automated testing, GitHub Actions integration, Docker containerization, and deployment via Nginx and Caddy.
+
+  
+### 🛠 Tech Stack
+
+| Frontend       | Backend           | Tools & DevOps      | Database        |
+| -------------- | ----------------- | ------------------- | --------------- |
+| Angular        | Node.js           | Git                 | MySQL           |
+| React (Next.js)| Express           | Docker              | PostgreSQL      |
+| Figma (Design) | Apollo Server     | GitHub Actions      | MSSQL           |
+|                |                   | Nginx, Caddy        | Redis           |
 
 
-  <img justify="center" width="440" alt="Capture d'écran" src="https://github.com/Omcci/Omcci/assets/119880787/697d2392-a0d9-43b9-842c-ce4b0decf1cf">
 
-
+### Projects
+> 
+> **[NotionSync](https://github.com/Omcci/NotionSync)**  
+> In progress: A tool to sync and back up your Notion workspace to a local or cloud storage. Currently developing a dashboard that lets users see AI-generated summaries of commits made on specific days, displayed within a calendar view.
+> 
+> **[Editoria](https://editoria.0923-orange-3.wns.wilders.dev/)**  
+> An online code editor that allows users to create and share code snippets with a community, featuring a user-friendly interface and collaboration tools.
 
 > [!TIP]
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarmelloulchi/)
