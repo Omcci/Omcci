@@ -9,9 +9,9 @@
 I also contributed to a project that communicates with a government API to create digital traceability of waste produced by clients.
 
  **Fullstack Web Developer** - _NotionSync, Self-owned project.
-2023 - Present_
+2024 - Present_
 
-NotionSync is a tool developers can use to improve their workflow.
+NotionSync is a tool designed to help developers streamline their workflow.
 Features a dual interface: a classic dashboard for managing branches and commits, and a calendar view for tracking commits chronologically.
 Includes options for synchronization with Notion and personalized monitoring.
 
