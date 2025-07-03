@@ -35,8 +35,8 @@ Includes options for synchronization with Notion and personalized monitoring.
 
 ### Projects
 > 
-> **[NotionSync](https://github.com/Omcci/NotionSync)**  
+> **[NotionSync](https://notionsync.fr)**  
 > In progress: A tool to sync and back up your Notion workspace to a local or cloud storage. Currently developing a dashboard that lets users see AI-generated summaries of commits made on specific days, displayed within a calendar view.
 > 
-> **[Editoria](https://editoria.0923-orange-3.wns.wilders.dev/)**  
+> **[Editoria](https://github.com/neolink78/Editoria)**  
 > An online code editor that allows users to create and share code snippets with a community, featuring a user-friendly interface and collaboration tools.
